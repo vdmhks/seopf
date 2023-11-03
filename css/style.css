@@ -13,10 +13,12 @@ body {
   overflow: hidden;
   background: linear-gradient(to left, #f5df7d 10%, #00A6E7 35%, #2F4BFF 75%, #002BDC 100%); 
 }
+
 .container .inner-container section {
   width: 90%;
   margin: 0 auto;  position: relative;
 }
+
 .container .title {
   position: absolute;
   display: block;

@@ -273,6 +273,6 @@ table td {vertical-align: middle;}
 /*skill*/
 .graph  { width: 90%; list-style: none; }
 .graph li { position: relative; padding: 1px 0; white-space:nowrap; margin:5px 0;}
-.graph li span  { display: inline-block; position: relative; height: 20px; line-height: 18px; background-image: linear-gradient( to left, #6978b9, #1332bb); padding:0 10px; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px;}
+.graph li span  { display: inline-block; position: relative; height: 20px; line-height: 18px; background-image: linear-gradient( to left, transparent, #1332bb); padding:0 10px; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px;}
 
 
